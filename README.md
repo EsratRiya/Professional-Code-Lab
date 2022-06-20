@@ -25,4 +25,4 @@
          * first sub-sub-item
     * second sub-item
 
-    ![Cat text](Cat.jpg)
+    ![Cat text](Cat.png)
