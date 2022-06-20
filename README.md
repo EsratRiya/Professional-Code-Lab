@@ -7,7 +7,7 @@
 
 <p align="center">Second equation: $X = Z_\gamma+\epsilon_x$
 
-<o align="center">f_1(\omega) = {\sigma^2 \over 2\pi},\omega\in[-\pi,\pi]$
+<o align="center">$f_1(\omega) = {\sigma^2 \over 2\pi},\omega\in[-\pi,\pi]$
 
 1.First item a.first sub-item A)first sub-sub-item b.second sub-item
 
